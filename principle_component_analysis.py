@@ -1,4 +1,4 @@
-# to download data and prepare the environment. (Restart runtime and rerun cell in case of an error) { display-mode: "form" }
+# to download data and prepare the environment
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
